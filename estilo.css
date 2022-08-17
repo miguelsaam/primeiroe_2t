@@ -41,7 +41,7 @@ li a{
   font-family: 'Courier New', Courier, monospace;
 }
 li a:hover{
- background-color: rgb(151, 49, 151);
+ background-color: rgb(151, 49, 151); 
  color: violet;
 }
 .boximag{
@@ -54,4 +54,18 @@ li a:hover{
 #bola {
   width: 80px;
   height: 80;
+}
+.rodape {
+  position: absolute;
+  width: 100%;
+  color: blue
+  height: 50px;
+  left: 0;
+  bottom: 0;
+  display: flax;
+  justify-content: center;
+}
+.conteudoHome {
+  position: absolute;
+  top: 45px;
 }
